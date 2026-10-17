@@ -1,5 +1,4 @@
-# YESken
-My portfolio README
+# My portfolio README
 <div align="center">
 
   <!-- Typing Effect Header -->
