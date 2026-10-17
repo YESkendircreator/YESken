@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Effect Header -->
-  <h1>Hi there, I'm Eskendir! 👋</h1>
+  <h1>Hi there, I'm YESskendir! 👋</h1>
   <p><b>Web Developer & Digital Creator | Media Technologies Enthusiast</b></p>
 
   <a href="https://github.com/YESkendircreator">
