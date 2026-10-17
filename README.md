@@ -1,11 +1,10 @@
-# My portfolio README
 <div align="center">
 
   <!-- Typing Effect Header -->
-  <h1>Hi there, I'm YESskendir! 👋</h1>
+  <h1>Hi there, I'm Eskendir! 👋</h1>
   <p><b>Web Developer & Digital Creator | Media Technologies Enthusiast</b></p>
 
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/YESkendircreator">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Frontend+%26+HTML%2FCSS+Dev;3D+Artist+%26+Motion+Designer;Building+cool+web+projects..." alt="Typing SVG" />
   </a>
 
@@ -40,14 +39,14 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YESkendircreator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YESkendircreator&layout=compact&theme=tokyonight" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YESkendircreator&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
